@@ -5,17 +5,38 @@ Welcome to my learning journey! This repository documents my progress, notes, an
 ## 🚀 Current Progress: Module 1
 **Status:** In Progress ✍️
 
-### Key Topics Covered:
-- [x] **AI Fundamentals:** Differences between Traditional AI and Generative AI.
-- [x] **Augmented Intelligence:** Understanding AI as a tool to enhance human capabilities.
-- [ ] **Generative AI Use Cases:** Exploring chatbots and smart assistants.
-- [ ] **AI Industries:** Applications across different sectors.
+# IBM Generative AI Engineering Professional Certificate
+
+Welcome to my learning journey! This repository documents my progress, notes, and labs for the IBM Generative AI Engineering Professional Certificate.
 
 ## 📂 Repository Structure
 - `/notes`: Summary of key concepts from videos and readings.
 - `/labs`: Hands-on exercises and AI assistant experiments.
 
 ## 🛠️ Skills in Development
-- Generative AI Strategy (current)
-- Prompt Engineering (Upcoming)
-- Large Language Models (LLMs) (Upcoming)
+- **Generative AI Strategy** (Current)
+- **Prompt Engineering** (Upcoming)
+- **Large Language Models (LLMs)** (Upcoming)
+
+---
+
+## 🎓 Module 1: Introduction and Applications of AI
+
+### ✅ Completed: Introduction to AI
+- [x] **Introducing AI:** Core concepts and definitions.
+- [x] **Artificial Intelligence vs. Augmented Intelligence:** Understanding the human-centric approach.
+- [x] **Introducing Generative AI and Its Use Cases:** Initial exploration of content creation models.
+- [x] **Different Types of AI:** Classification and specialized systems.
+- [x] **The Evolution of AI:** Contrast between Traditional (Discriminative) vs. Generative AI.
+- [x] **Future Outlook:** "Artificial Intelligence - Are We There Yet?" analysis.
+- [x] **Practice Quiz: Introduction to AI.** **(Grade: 100%)** 🏆
+
+### ⏳ Next Steps: Impact and Applications of AI
+- [ ] **AI in Daily Life:** Exploring everyday machine learning use cases.
+- [ ] **AI Chatbots and Smart Assistants:** Deep dive into "What is a Chatbot?".
+- [ ] **Lab: AI Assistant-User Conversations:** Analysis of interaction patterns.
+- [ ] **Applications of AI in Different Industries:** Impact across business sectors.
+- [ ] **Generative AI Tools and Applications:** Hands-on exploration.
+- [ ] **Lab: Generative AI Tools in Action.**
+- [ ] **Practice Quiz:** Impact and Applications of AI.
+- [ ] **Module Summary & Graded Quiz:** Introduction and Applications of AI.
