@@ -32,11 +32,11 @@ Welcome to my learning journey! This repository documents my progress, notes, an
 - [x] **Practice Quiz: Introduction to AI.** **(Grade: 100%)** 🏆
 
 ### ⏳ Next Steps: Impact and Applications of AI
-- [ ] **AI in Daily Life:** Exploring everyday machine learning use cases.
-- [ ] **AI Chatbots and Smart Assistants:** Deep dive into "What is a Chatbot?".
-- [ ] **Lab: AI Assistant-User Conversations:** Analysis of interaction patterns.
-- [ ] **Applications of AI in Different Industries:** Impact across business sectors.
-- [ ] **Generative AI Tools and Applications:** Hands-on exploration.
-- [ ] **Lab: Generative AI Tools in Action.**
-- [ ] **Practice Quiz:** Impact and Applications of AI.
-- [ ] **Module Summary & Graded Quiz:** Introduction and Applications of AI.
+- [x] **AI in Daily Life:** Exploring everyday machine learning use cases.
+- [x] **AI Chatbots and Smart Assistants:** Deep dive into "What is a Chatbot?".
+- [x] **Lab: AI Assistant-User Conversations:** Analysis of interaction patterns.
+- [x] **Applications of AI in Different Industries:** Impact across business sectors.
+- [x] **Generative AI Tools and Applications:** Hands-on exploration.
+- [x] **Lab: Generative AI Tools in Action.**
+- [x] **Practice Quiz:** Impact and Applications of AI.
+- [x] **Module Summary & Graded Quiz:** Introduction and Applications of AI.
