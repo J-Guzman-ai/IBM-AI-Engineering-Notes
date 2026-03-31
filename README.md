@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certification-IBM%20Professional-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certification">
-  <img src="https://img.shields.io/badge/Status-Modules%201%20%26%202%20Complete-success?style=for-the-badge&logo=github" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Modules%201%2C%202%20%26%203%20Complete-success?style=for-the-badge&logo=github" alt="Status">
   <img src="https://img.shields.io/badge/Specialization-Generative%20AI-orange?style=for-the-badge&logo=openai" alt="Generative AI">
 </p>
 
@@ -54,11 +54,11 @@ This repository documents my comprehensive journey through the **IBM Generative 
 | **AI Chatbots & Smart Assistants** | Conversational AI and logic. | [x] |
 | **What Is a Chatbot?** | Deep dive into NLP-based interfaces. | [x] |
 | **Lab: AI Assistant Conversations** | Analysis of interaction patterns. | [x] |
-| **Industry Applications** | Vertical use cases (Finance, Health, Retail). | [x] |
-| **Generative AI Tools** | Hands-on with modern platforms. | [x] |
-| **10 Everyday AI Use Cases** | Practical ML examples in the real world. | [x] |
-| **Lab: GenAI Tools in Action** | Practical experimentation session. | [x] |
-| **Practice Quiz: Impact of AI** | **Grade: 100%** | 🏆 |
+| **Applications of AI in Different Industries** | Vertical use cases across sectors. | [x] |
+| **Generative AI Tools and Applications** | Hands-on with modern platforms. | [x] |
+| **Ten Everyday AI and Machine Learning Use Cases** | Practical ML examples in the real world. | [x] |
+| **Lab: Generative AI Tools in Action** | Practical experimentation session. | [x] |
+| **Practice Quiz: Impact and Applications of AI** | **Grade: 100%** | 🏆 |
 | **Final Graded Quiz: Module 1** | **Grade: 80%** | ✅ |
 
 ---
@@ -70,32 +70,56 @@ This repository documents my comprehensive journey through the **IBM Generative 
 | Topic | Key Learning Point | Status |
 | :--- | :--- | :---: |
 | **Cognitive Computing** | Mimicking human thought processes. | [x] |
-| **AI Terminologies** | Building a technical AI vocabulary. | [x] |
+| **Terminologies and Related Concepts of AI** | Building a technical AI vocabulary. | [x] |
 | **Machine Learning (ML)** | Foundations and core principles. | [x] |
-| **ML Techniques & Training** | Supervised, Unsupervised, and Reinforcement. | [x] |
+| **Machine Learning: Techniques and Training** | Supervised, Unsupervised, and Reinforcement. | [x] |
 | **Deep Learning** | Multi-layered neural architectures. | [x] |
 | **Neural Networks** | Biological inspiration for AI. | [x] |
-| **ML Vs. Deep Learning** | Feature engineering vs. Neural extraction. | [x] |
+| **Machine Learning Vs. Deep Learning** | Feature engineering vs. Neural extraction. | [x] |
 | **Generative AI Models** | GANs, VAEs, and Transformer basics. | [x] |
 | **Large Language Models (LLMs)** | Tokenization and scale principles. | [x] |
 | **ML vs. DL vs. Foundation Models** | Evolution of model architectures. | [x] |
-| **Practice Quiz: Fundamentals** | **Grade: 100%** | 🏆 |
+| **Practice Quiz: Fundamental Concepts of AI** | **Grade: 100%** | 🏆 |
 
 #### Phase 4: Domains of AI & Infrastructure
 | Topic | Specialized Domain | Status |
 | :--- | :--- | :---: |
-| **NLP, Speech & Vision** | Multimodal data processing. | [x] |
-| **NLP Deep Dive** | Natural Language Processing mechanics. | [x] |
+| **NLP, Speech, and Computer Vision** | Multimodal data processing. | [x] |
+| **What Is NLP (Natural Language Processing)?** | Natural Language Processing mechanics. | [x] |
 | **Self-Driving Cars** | Autonomous navigation and vision logic. | [x] |
-| **Cloud, Edge & IoT** | AI deployment infrastructure. | [x] |
+| **AI and Cloud Computing, Edge Computing, and IoT** | AI deployment infrastructure. | [x] |
 | **Practice Quiz: Domains of AI** | **Grade: 100%** | 🏆 |
 | **Final Graded Quiz: Module 2** | **Grade: 80%** | ✅ |
 
 ---
 
+### 📙 Module 3: Business and Career Transformation Through AI
+> **Status:** Completed ✅ | **Performance Average:** 100%
+
+#### Phase 5: AI Domains for Industries
+| Topic | Description | Status |
+| :--- | :--- | :---: |
+| **AI Agents** | Definition and architecture of AI agents. | [x] |
+| **What Are AI Agents?** | Deep dive into autonomous agent logic. | [x] |
+| **Robotics and Automation** | Industrial integration of AI systems. | [x] |
+| **Practice Quiz: AI Domains for Industries** | **Grade: 100%** | 🏆 |
+
+#### Phase 6: AI for Businesses
+| Topic | Key Learning Point | Status |
+| :--- | :--- | :---: |
+| **Transforming Businesses Through AI** | Strategic impact on organizational structure. | [x] |
+| **The Rise of Generative AI for Business** | Emerging value creation models. | [x] |
+| **Lab: Generative AI for Business Transformation** | Practical business application session. | [x] |
+| **Become a Value Creator with Generative AI** | Leadership in the AI era. | [x] |
+| **What Is Retrieval-Augmented Generation (RAG)?** | Implementation and benefits of RAG systems. | [x] |
+| **Adopting AI in Your Business** | Strategic adoption principles. | [x] |
+| **Frameworks for AI Adoption** | Comparing Amazon, OpenAI, and Facebook models. | [x] |
+| **Practice Quiz: AI for Businesses** | **Grade: 100%** | 🏆 |
+
+---
+
 ## 📅 Roadmap to Completion
-- [ ] **Module 3:** Generative AI: Business Transformation and Career Opportunities.
-- [ ] **Module 4:** Specialized Prompt Engineering.
+- [ ] **Module 4:** Upcoming Module.
 - [ ] **Capstone Project:** Full AI Implementation.
 
 ---
